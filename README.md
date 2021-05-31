@@ -1,5 +1,5 @@
 # Search Engine
-This is simple apllication that allows to search the list of drinks
+This is simple apllication that allows to search the list of drinks.
 
 * [General info](#general-info)
 * [Technologies](#technologies)
