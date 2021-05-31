@@ -18,7 +18,7 @@ Project is created with:
 * JavaScript
 
 ## Screenshots
-./img/search.JPG
+![Example screenshot](./img/search.JPG)
 
 ## Setup
 You can see this project on-line using link: https://szymonsauer.github.io/search-engine-js/.
