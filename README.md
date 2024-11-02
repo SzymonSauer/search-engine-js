@@ -28,4 +28,4 @@ To run this project locally download the code and run in the Visual Studio Code 
 Project is finished.
 
 ## Inspiration
-Project based on Udemy course '[2021] 10 projektów w czystym JavaScript cz. 1'
+Project based on Udemy course '[2024] 10 projektów w czystym JavaScript cz. 1'
