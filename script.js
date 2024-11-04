@@ -15,6 +15,8 @@ const checkInput = () => {
 	}
 };
 
+search.addEventListener('keyup', checkInput);
+
 // search.addEventListener('keydown', (event) => {
 // 	if (event.code === 'Enter') checkInput();
 // });
